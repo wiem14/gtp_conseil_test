@@ -1,4 +1,4 @@
-GESTION SIMPLE D4UNE FILE D'ATTENTE
+GESTION SIMPLE D'UNE FILE D'ATTENTE
 ===========
 
 - dump de la base de donnée dans le fichier /bd.sql
